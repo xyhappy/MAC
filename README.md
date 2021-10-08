@@ -36,5 +36,5 @@ python main.py
 
 Note:
 
-PROTEINS, NCI1, NCI109 and Mutagenicity are running on GeForce RTX 2080 Ti, DD is running on Tesal V100.
+PROTEINS, NCI1, NCI109 and Mutagenicity are trained on NVIDIA GeForce RTX 2080 Ti GPU, DD is trained on NVIDIA Tesal V100 GPU.
 
